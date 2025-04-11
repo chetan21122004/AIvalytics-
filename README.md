@@ -62,7 +62,7 @@
 | **Content Creation & MCQ Generation** | Teachers submit educational content via WhatsApp.                                   | Not Implemented       |
 |                                       | Backend Server routes content to the AI/ML Engine.                                  | Partially Implemented |
 |                                       | AI/ML Engine generates unique MCQs.                                                 | Implemented           |
-|                                       | Generated MCQs are stored in the Unique MCQ Database.                               | Not Implemented       |
+|                                       | Generated MCQs are stored in the Unique MCQ Database.                               | Implemented           |
 | **Student Assessment Process**        | Unique MCQ sets are distributed to students via WhatsApp.                           | Not Implemented       |
 |                                       | Students complete MCQ tests in WhatsApp.                                            | Not Implemented       |
 |                                       | Completed tests are submitted back through WhatsApp.                                | Not Implemented       |
