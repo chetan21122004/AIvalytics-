@@ -5,7 +5,7 @@
 - **Feature: Teachers submit educational content via WhatsApp.**
   - **Status:** Not implemented. No WhatsApp integration is present in the codebase.
 
-- **Feature: Backend Server routes content to the AI/ML Engine.**
+- **Feature: Backend Server routes content to AI/ML Engine.**
   - **Status:** Partially implemented. The `route.js` file uses the `ChatGoogleGenerativeAI` to generate MCQs based on a topic and difficulty.
 
 - **Feature: AI/ML Engine generates unique MCQs.**
