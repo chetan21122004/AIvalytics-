@@ -40,7 +40,7 @@ export async function POST(request) {
                 "X-Title": "AIvalytics MCQ Generator"
             },
             body: JSON.stringify({
-                model: "deepseek/deepseek-prover-v2:free",
+                model: "deepseek/deepseek-chat-v3.1:free",
                 messages: [
                     { role: "system", content: systemPrompt },
                     { role: "user", content: userPrompt }
